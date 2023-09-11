@@ -1,0 +1,1 @@
+package edu.satraining.lesson11.list.exam1.case1.model;
